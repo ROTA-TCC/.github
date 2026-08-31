@@ -44,7 +44,7 @@ Este projeto é desenvolvido exclusivamente pelos membros do grupo de TCC:
 )
 - **Miguel Martins Menzel** - [GitHub](https://github.com/MiguelMartinsMenzel)
 - **Thiago Silva** - [GitHub](https://github.com/Thiago-Sillva)
-- - **Rafael Martins Paiva** - [GitHub](https://github.com/Rafael-Martins-Paiva)
+- **Rafael Martins Paiva** - [GitHub](https://github.com/Rafael-Martins-Paiva)
 - **Cezar** - [GitHub](https://github.com/)
 ---
 
