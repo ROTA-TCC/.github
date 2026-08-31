@@ -1,6 +1,6 @@
 # ROTA 
 
-![Ícone da ROTA](../assets/icone.png) 
+![Ícone da ROTA](../assets/icone.pdf) 
 
 Bem-vindo à organização oficial da **ROTA** no GitHub. Este ecossistema de software foi desenvolvido como objeto de estudo e implementação para um Trabalho de Conclusão de Curso (TCC), com foco em soluções tecnológicas aplicadas à área da **saúde**.
 
